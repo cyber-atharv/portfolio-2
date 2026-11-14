@@ -3,6 +3,11 @@
 
 # Atharv Portfolio Showcase 💻
 
+## Live Demo ??
+
+You can view the live website here: [Live Demo](https://cyber-atharv.github.io/portfolio-2/)
+
+
 Welcome to **Atharv's Portfolio Showcase**!  
 This project is a modern **portfolio website** to display projects, skills, and work samples using **HTML, CSS, and JavaScript**.  
 It is fully **responsive**, interactive, and designed to highlight your projects with videos, animations, and smooth navigation.
@@ -10,6 +15,11 @@ It is fully **responsive**, interactive, and designed to highlight your projects
 ---
 
 ## 🌟 Features
+
+## Live Demo ??
+
+You can view the live website here: [Live Demo](https://cyber-atharv.github.io/portfolio-2/)
+
 
 - Dark theme with **blue accent color** for highlights.
 - **Home Section** with developer introduction and avatar.
@@ -24,6 +34,11 @@ It is fully **responsive**, interactive, and designed to highlight your projects
 
 ## ⚡ Technologies Used
 
+## Live Demo ??
+
+You can view the live website here: [Live Demo](https://cyber-atharv.github.io/portfolio-2/)
+
+
 - **HTML5** – Structure and content
 - **CSS3** – Styling and responsive design
 - **JavaScript (Vanilla JS)** – Interactivity
@@ -34,22 +49,22 @@ It is fully **responsive**, interactive, and designed to highlight your projects
 
 ## 🛠 How to Use / Customize
 
+## Live Demo ??
+
+You can view the live website here: [Live Demo](https://cyber-atharv.github.io/portfolio-2/)
+
+
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/Saboo24/portfolio-showcase.git
+git clone https://github.com/cyber-atharv/portfolio-2.git
 
 ```
 ---
 
-## 📬 Contact
+## ?? Contact
 
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
-- LinkedIn: [LinkedIn](www.linkedin.com/in/mohamed-Atharv-hamzaoui-a2453a35b)  
-- GitHub: [GitHub](https://github.com/Saboo24)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
-
+- Email: [atharvhogade12@gmail.com](mailto:atharvhogade12@gmail.com)
 ---
 
 Made with ❤️ by **Atharv**
